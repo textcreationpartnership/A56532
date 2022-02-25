@@ -1,0 +1,460 @@
+<TEI xmlns="http://www.tei-c.org/ns/1.0">
+   <teiHeader>
+      <fileDesc>
+         <titleStmt>
+            <title>The pleasant and delightful history of Floridon and Lucina illustriated [sic] with an admirable description of loves paradice : wherein you may behold, the abundant felicity, that true lovers enjoy, in the chaste imbraces of their dearest loves, and the sad effects that most commonly attends faithless and unconstant lovers : with variety of other passages never before printed nor published / by J.P.</title>
+            <author>J. P.</author>
+         </titleStmt>
+         <editionStmt>
+            <edition>
+               <date>1663</date>
+            </edition>
+         </editionStmt>
+         <extent>Approx. 72 KB of XML-encoded text transcribed from 25 1-bit group-IV TIFF page images.</extent>
+         <publicationStmt>
+            <publisher>Text Creation Partnership,</publisher>
+            <pubPlace>Ann Arbor, MI ; Oxford (UK) :</pubPlace>
+            <date when="2011-04">2011-04 (EEBO-TCP Phase 2).</date>
+            <idno type="DLPS">A56532</idno>
+            <idno type="STC">Wing P64</idno>
+            <idno type="STC">ESTC R9318</idno>
+            <idno type="EEBO-CITATION">12198160</idno>
+            <idno type="OCLC">ocm 12198160</idno>
+            <idno type="VID">56023</idno>
+            <availability>
+               <p>To the extent possible under law, the Text Creation Partnership has waived all copyright and related or neighboring rights to this keyboarded and encoded edition of the work described above, according to the terms of the CC0 1.0 Public Domain Dedication (http://creativecommons.org/publicdomain/zero/1.0/). This waiver does not extend to any page images or other supplementary files associated with this work, which may be protected by copyright or other license restrictions. Please go to https://www.textcreationpartnership.org/ for more information about the project.</p>
+            </availability>
+         </publicationStmt>
+         <seriesStmt>
+            <title>Early English books online.</title>
+         </seriesStmt>
+         <notesStmt>
+            <note>(EEBO-TCP ; phase 2, no. A56532)</note>
+            <note>Transcribed from: (Early English Books Online ; image set 56023)</note>
+            <note>Images scanned from microfilm: (Early English books, 1641-1700 ; 614:14)</note>
+         </notesStmt>
+         <sourceDesc>
+            <biblFull>
+               <titleStmt>
+                  <title>The pleasant and delightful history of Floridon and Lucina illustriated [sic] with an admirable description of loves paradice : wherein you may behold, the abundant felicity, that true lovers enjoy, in the chaste imbraces of their dearest loves, and the sad effects that most commonly attends faithless and unconstant lovers : with variety of other passages never before printed nor published / by J.P.</title>
+                  <author>J. P.</author>
+               </titleStmt>
+               <extent>48 p. : ill. (woodcuts)  </extent>
+               <publicationStmt>
+                  <publisher>Printed by T. Mabb, and are to be sold by William Gilberson ...,</publisher>
+                  <pubPlace>London :</pubPlace>
+                  <date>1663.</date>
+               </publicationStmt>
+               <notesStmt>
+                  <note>Reproduction of original in Huntington Library.</note>
+               </notesStmt>
+            </biblFull>
+         </sourceDesc>
+      </fileDesc>
+      <encodingDesc>
+         <projectDesc>
+            <p>Created by converting TCP files to TEI P5 using tcp2tei.xsl,
+      TEI @ Oxford.
+      </p>
+         </projectDesc>
+         <editorialDecl>
+            <p>EEBO-TCP is a partnership between the Universities of Michigan and Oxford and the publisher ProQuest to create accurately transcribed and encoded texts based on the image sets published by ProQuest via their Early English Books Online (EEBO) database (http://eebo.chadwyck.com). The general aim of EEBO-TCP is to encode one copy (usually the first edition) of every monographic English-language title published between 1473 and 1700 available in EEBO.</p>
+            <p>EEBO-TCP aimed to produce large quantities of textual data within the usual project restraints of time and funding, and therefore chose to create diplomatic transcriptions (as opposed to critical editions) with light-touch, mainly structural encoding based on the Text Encoding Initiative (http://www.tei-c.org).</p>
+            <p>The EEBO-TCP project was divided into two phases. The 25,368 texts created during Phase 1 of the project (2000-2009), initially available only to institutions that contributed to their creation, were released into the public domain on 1 January 2015. The approximately 40,000 texts produced during Phase 2 (2009- ), of which 34,963 had been released as of 2020, originally similarly restricted, were similarly freed from all restrictions on 1 August 2020. As of that date anyone is free to take and use these texts for any purpose (modify them, annotate them, distribute them, etc.). But we do respectfully request that due credit and attribution be given to their original source.</p>
+            <p>Users should be aware of the process of creating the TCP texts, and therefore of any assumptions that can be made about the data.</p>
+            <p>Text selection was based on the New Cambridge Bibliography of English Literature (NCBEL). If an author (or for an anonymous work, the title) appears in NCBEL, then their works are eligible for inclusion. Selection was intended to range over a wide variety of subject areas, to reflect the true nature of the print record of the period. In general, first editions of a works in English were prioritized, although there are a number of works in other languages, notably Latin and Welsh, included and sometimes a second or later edition of a work was chosen if there was a compelling reason to do so.</p>
+            <p>Image sets were sent to external keying companies for transcription and basic encoding. Quality assurance was then carried out by editorial teams in Oxford and Michigan. 5% (or 5 pages, whichever is the greater) of each text was proofread for accuracy and those which did not meet QA standards were returned to the keyers to be redone. After proofreading, the encoding was enhanced and/or corrected and characters marked as illegible were corrected where possible up to a limit of 100 instances per text. Any remaining illegibles were encoded as &lt;gap&gt;s. Understanding these processes should make clear that, while the overall quality of TCP data is very good, some errors will remain and some readable characters will be marked as illegible. Users should bear in mind that in all likelihood such instances will never have been looked at by a TCP editor.</p>
+            <p>The texts were encoded and linked to page images in accordance with level 4 of the TEI in Libraries guidelines.</p>
+            <p>Copies of the texts have been issued variously as SGML (TCP schema; ASCII text with mnemonic sdata character entities); displayable XML (TCP schema; characters represented either as UTF-8 Unicode or text strings within braces); or lossless XML (TEI P5, characters represented either as UTF-8 Unicode or TEI g elements).</p>
+            <p>Keying and markup guidelines are available at the <ref target="http://www.textcreationpartnership.org/docs/.">Text Creation Partnership web site</ref>.</p>
+         </editorialDecl>
+         <listPrefixDef>
+            <prefixDef ident="tcp"
+                       matchPattern="([0-9\-]+):([0-9IVX]+)"
+                       replacementPattern="http://eebo.chadwyck.com/downloadtiff?vid=$1&amp;page=$2"/>
+            <prefixDef ident="char"
+                       matchPattern="(.+)"
+                       replacementPattern="https://raw.githubusercontent.com/textcreationpartnership/Texts/master/tcpchars.xml#$1"/>
+         </listPrefixDef>
+      </encodingDesc>
+      <profileDesc>
+         <langUsage>
+            <language ident="eng">eng</language>
+         </langUsage>
+      </profileDesc>
+      <revisionDesc>
+         <change>
+            <date>2009-05</date>
+            <label>TCP</label>Assigned for keying and markup</change>
+         <change>
+            <date>2009-06</date>
+            <label>SPi Global</label>Keyed and coded from ProQuest page images</change>
+         <change>
+            <date>2009-07</date>
+            <label>Lauren Proux</label>Sampled and proofread</change>
+         <change>
+            <date>2009-07</date>
+            <label>Lauren Proux</label>Text and markup reviewed and edited</change>
+         <change>
+            <date>2009-09</date>
+            <label>pfs</label>Batch review (QC) and XML conversion</change>
+      </revisionDesc>
+   </teiHeader>
+   <text xml:lang="eng">
+      <front>
+         <div type="imprimatur">
+            <pb facs="tcp:56023:1"/>
+            <pb facs="tcp:56023:1"/>
+            <p>Imprimatur</p>
+            <closer>
+               <dateline>
+                  <date>
+                     <hi>November</hi> 9. 1663.</date>
+               </dateline>
+               <signed>Roger L'Eſtrange.</signed>
+            </closer>
+         </div>
+         <div type="illustration">
+            <pb facs="tcp:56023:2"/>
+            <p>
+               <figure>
+                  <head>FLORIDON <hi>And</hi> LUCINA</head>
+               </figure>
+            </p>
+         </div>
+         <div type="title_page">
+            <pb facs="tcp:56023:2"/>
+            <p>The Pleaſant and Delightful HISTORY OF Floridon and Lucina, Illuſtriated with an admirable Deſcription of Loves Paradice.</p>
+            <p>Wherein you may behold, the abundant Felicity, that true Lovers enjoy, in the Chaſte Im<g ref="char:EOLhyphen"/>braces of their Deareſt Loves, And the ſad Effects that moſt commonly attends Faithleſs and Unconſtant Lovers.</p>
+            <p>With Variety of other Paſſages never before Printed nor Publiſhed.</p>
+            <p>
+               <hi>By</hi> J. P.</p>
+            <p>
+               <hi>London,</hi> Printed by <hi>T. Mabb,</hi> and are to be ſold by <hi>William Gilberſon,</hi> at the <hi>Bible</hi> in <hi>Gilſpur-ſtreet,</hi> 1663.</p>
+         </div>
+         <div type="printer_to_the_reader">
+            <pb facs="tcp:56023:3"/>
+            <pb facs="tcp:56023:3"/>
+            <head>The <hi>Printer,</hi> To the <hi>Reader.</hi>
+            </head>
+            <opener>
+               <salute>KInd Reader,</salute>
+            </opener>
+            <p>Thou art here Preſented with a ſmall <hi>Hiſtory,</hi> which I hope will prove to thy good liking; It is all new Inven<g ref="char:EOLhyphen"/>tion, never before Printed, nor Publiſhed, and will take thee but one houre (of the time which thou ſets apart for thy Recreation) to peruſe it.</p>
+            <p>The Author had an intention to have enlarg'd it, if unexpected occaſions had not prevented him. But it is an old ſaying, <hi>That the wing of a Larke, is better then the
+<pb facs="tcp:56023:4"/>
+whole body of a Kite:</hi> So it may be, this ſhort Piece, may pleaſe thee better then a great deal of worſe matter. I am the more con<g ref="char:EOLhyphen"/>fident, becauſe I have known, as bad as this, which hath been kind<g ref="char:EOLhyphen"/>ly accepted. However it be, when thou haſt read it, cenſure it with diſcretion, and the Author will endeavour to pleaſe thee better in the next.</p>
+            <closer>
+               <salute>And ſo Farewell.</salute>
+            </closer>
+         </div>
+      </front>
+      <body>
+         <div type="text">
+            <pb n="7" facs="tcp:56023:4"/>
+            <head>The Pleaſant and Delightfull HISTORY OF <hi>FLORIDON</hi> and <hi>LUCINA.</hi>
+            </head>
+            <div n="1" type="chapter">
+               <head>CHAPTER I.</head>
+               <head type="sub">Containing an admirable deſcription of <hi>Loves Para<g ref="char:EOLhyphen"/>dice,</hi> with the incomparable Pleaſures and De<g ref="char:EOLhyphen"/>lights which that place affords.</head>
+               <figure/>
+               <p>ONe Morning early, when Beauteous <hi>Aurora</hi> had newly diſplaid her radiant beams, to revive and comfort poore drooping Mortalls; I walked in<g ref="char:EOLhyphen"/>to a pleaſant Meadow, near to a delightful ſha<g ref="char:EOLhyphen"/>dy Grove; where I chanced to eſpye a beaten path, which led me through this Solitary Shade into a place
+<pb n="8" facs="tcp:56023:5"/>
+of pleaſure, frequented by none but Amorous Lovers. It was called <hi>Loves Paradice;</hi> A place incomparably furniſh't with all the rare delights that could poſſibly be deſired. O in what Rich Aray ſtood the flouriſhing Arbours, be<gap reason="illegible" resp="#UOM" extent="1 letter">
+                     <desc>•</desc>
+                  </gap>eck't with all ſorts of fragrant Flowers and Garlands. There the Roſes and Gilly flowers appeared in their greateſt Beau<g ref="char:EOLhyphen"/>ty, and the murmuring Springs did much delight the Senſes of theſe Ioyfull Lovers.</p>
+               <p>Here was no admittance for rough Martialiſts, nor Mel<g ref="char:EOLhyphen"/>lancholy Saturniſts, ſuch humours were nothing at all a<g ref="char:EOLhyphen"/>greeable to the diſpoſitions of theſe ſweet ſouls.</p>
+               <p>Nor was it any ſmall delight, to ſée the Lovers walk Hand in Hand from one Spring to another, and from one Arbour to another, free from the leaſt dread or danger that might befall them. Their chaſte imbraces were ſo ſweet, and all their Actions ſo Innocent, their Love ſo Conſtant, and their Affection ſo Pure; that they appear'd like ſo many Turtles billing to delight each other.</p>
+               <p>The Grove abounded with Birds of all ſorts, which with their mellodious Harmony, did Raviſh the Hearts and Ears of all that heard them. How happy are thoſe chaſte Lovers that enjoy ſuch aboundance of delights, without the leaſt ſpot of ſtayned affection. Never was a Swéeter place framed by Nature, nor never was there in <gap reason="illegible" resp="#UOM" extent="1 word">
+                     <desc>〈◊〉</desc>
+                  </gap> content found then in this place. I ſtood amazed to behold the rarity of this ſecond Eli<g ref="char:EOLhyphen"/>zium, and to hear the little <gap reason="illegible" resp="#UOM" extent="1 word">
+                     <desc>〈◊〉</desc>
+                  </gap> 
+                  <gap reason="illegible" resp="#UOM" extent="1 letter">
+                     <desc>•</desc>
+                  </gap>arble forth their intice<g ref="char:EOLhyphen"/>ing Harmony.</p>
+               <p>Many were the Fountains, <gap reason="illegible" resp="#UOM" extent="1 word">
+                     <desc>〈◊〉</desc>
+                  </gap>, and Rivolets, that were beſet about with Pines and Almes, to ſhade them from the parching heat in Summer, and to defend them from the nipping cold in Winter.</p>
+               <p>In a pleaſant Garden neere adjoyning, you might behold the weeping Statues of all ſuch Lovers, as had been devided either by death or misfortune; where the reſt of the Lovers did uſually once a day ſet fall ſome Tears, compaſſionating the remembrance of their forepaſt miſeries.</p>
+               <p>Not farr from this place, ſtood a Famous Temple Dedi<g ref="char:EOLhyphen"/>cated to <hi>Diana,</hi> in which they offered Sacrifice with great Solemnity: returning from thence, they repaired to certain
+<pb n="9" facs="tcp:56023:5"/>
+Banqueting houſes, richly furniſhed with all variety of de<g ref="char:EOLhyphen"/>lights, fit for their Paſtime and Recreation.</p>
+               <p>Some plaid on rare Inſtruments of Muſick, whilſt others walked out to gather Flowers to deck their Flouriſhing Garlands, ſome were angling for the nibling Fiſhes in the Chriſtall Brooks, whilſt others were retired into private Arbours to diſcourſe with their deareſt Lovers. Marvelous was the variety of pleaſure, that this place afforded to delight the ſenſes of theſe Amorous Fancies.</p>
+               <p>Whilſt I ſtood admiring at their enjoyments, I chanced to hear a pleaſing Melody from one of the remote Arbours, which cauſed me to draw ſomthing nearer, where I perceived it to procéed from the ſwéet voice of an incomparable Beauty, who being all alone, not thinking ſhe had been heard, warbled forth this ſhort but mournfull Dity for the abſcence of her Lover.</p>
+               <figure/>
+               <q>
+                  <l>Shall I lament and mourn alone,</l>
+                  <l>Whilſt other Lovers do rejoyce,</l>
+                  <l>O! where is my dear <hi>Floridon,</hi>
+                  </l>
+                  <l>That I cannot hear his ſweet voice</l>
+                  <l>It would revive my love-ſick hears</l>
+                  <l>And force all ſorrows to depart;</l>
+                  <l>Some ſtrange diſaſter doth detain</l>
+                  <l>My deareſt love from me this time</l>
+                  <l>I'me ſure he conſtant will remain,</l>
+                  <l>His love is fixt and ſo is mine,</l>
+                  <l>
+                     <pb n="10" facs="tcp:56023:6"/>Then why do I thus pine away,</l>
+                  <l>Since long from me he cannot ſtay.</l>
+               </q>
+               <p>This lamentation proceeded from the fair <hi>Lucina,</hi> the occa<g ref="char:EOLhyphen"/>ſion of her coming here, you ſhall finde hereafter.</p>
+            </div>
+            <div n="2" type="chapter">
+               <head>CHAPTER II.</head>
+               <head type="sub">How <hi>Floridon</hi> and <hi>Lucina,</hi> by frequenting Loves Pa<g ref="char:EOLhyphen"/>radice, became Inammored of each other; and ap<g ref="char:EOLhyphen"/>pointed their Wedding day: and how <hi>Floridon</hi> was ſurpriz'd by a company of Out-laws, and carried to a Cave in a ſolitary deſart.</head>
+               <figure/>
+               <p>THe Fame of this new found Paradice, being ſpread a<g ref="char:EOLhyphen"/>bout all the Province of <hi>Arcadia,</hi> cauſed whole troops of Lovers to reſort thither, for to reereate themſelves with the aboundant pleaſures that this place afforded.</p>
+               <p>
+                  <pb n="11" facs="tcp:56023:6"/>Thrice happy did they count themſelves that enjoy'd their deareſt Mates, but moſt unhappy were they, which had not the opportunity to bear a part in this Amorous Society.</p>
+               <p>The moſt remarkable pair that frequented this place of plea<g ref="char:EOLhyphen"/>ſure, was the conſtant <hi>Floridon</hi> and fair <hi>Lucina.</hi>
+               </p>
+               <p>This <hi>Floridon</hi> was a Perſon of great Power and Quality in thoſe parts, for he was richly endow'd with natures gifts, and his dear <hi>Lucina</hi> was nothing inferiour to him, either in Birth or Deſert. They lived but a ſmall diſtance from each other, by which means, they had oftner meetings, and oppor<g ref="char:EOLhyphen"/>tunities more frequently, to repair to Loves Paradice; where they injoy'd all the happy content that chaſte Lovers could wiſh or deſire.</p>
+               <p>In this natural Delight, they paſſed their time, for ſome years; till at the laſt, they deſired a more reall injoyment of each other, and ſo concluding upon a time for ſolemnizing their nuptialls; they reſolv'd after a ſmall ſeaſon, to bid a<g ref="char:EOLhyphen"/>diew to this ſweet ſociety of Lovers. (For you muſt note, that after Marriage, none was to be admitted into Loves Paradice.)</p>
+               <p>This reſolution of theirs, was applauded and confirmed by the general conſent of all their Relations; ſo that there was nothing remi<gap reason="illegible" resp="#UOM" extent="3 letters">
+                     <desc>•••</desc>
+                  </gap>ing, but an expectation of that ioyfull day, which they had already appointed, but marke how Fortune croſſed their intentions, when they were even in the very height of their chiefeſt hopes.</p>
+               <p>As <hi>Floridon</hi> was walking one evening alone to viſit his be<g ref="char:EOLhyphen"/>loved <hi>Lucina;</hi> he was ſet upon at unawars by a company of boiſterous Out-law's, who bound him upon a Horſe, and carried him into a ſolitary Deſart, about ſome twelve miles diſtant from his own habitation: In the thickeſt part of this Wood, there was a Cave of a vaſt bigneſs, into which theſe Robbers did retire, where they had ſeveral Roomes; ſome for their own Lodgings, and others to beſtow their Booties in; into one of which, they put poore <hi>Floridon,</hi> being loath to put him to death, becauſe they had hopes to make a better prize of him.</p>
+               <p>Theſe Robbers had one amongſt them, which was their Captain, to whom they were all ſubject; he had formerly
+<pb n="12" facs="tcp:56023:7"/>
+been a Gentleman of good Ranke, but having con<g ref="char:EOLhyphen"/>ſumed his Eſtate, was forced to this kinde of unlawful living. He had a Woman of a rare Beauty in y<hi rend="sup">e</hi> Cave with him, whom he kept in a man<g ref="char:EOLhyphen"/>ner as a Priſoner, ſhe had a great power over him, and could almoſt perſwade him to execute her will in any thing.</p>
+               <figure/>
+            </div>
+            <div n="3" type="chapter">
+               <pb n="13" facs="tcp:56023:7"/>
+               <head>CHAP. III.</head>
+               <head type="sub">How <hi>Floridon</hi> bewailed his ſad condition in the Cave, and how <hi>Iſabella</hi> endeavoured to comfort him with hopes of Releaſe.</head>
+               <p>
+                  <hi>THe next Morning very early theſe free booters, went abroad to look out for another prize, and left the care of the Priſoner to the Gentlewoman and two ſer<g ref="char:EOLhyphen"/>vants; but ſhe who had view'd the comely perſon of</hi> Floridon, <hi>and perceiving him to be of no mean Quality; thought the time long untill ſhe might have ſome diſcourſe with him, intending withall to work his releaſe, provided ſhe could finde him conformable to her deſires: To that end and purpoſe ſhe went to the Priſon doore, where before ſhe could enter, ſhe might hear him lamenting his ſad misfortune, in theſe or the like expreſſions.</hi>
+               </p>
+               <figure/>
+               <p>O miſerable and thrice unhappy <hi>Floridon,</hi> that from the height of Felicity art plunged into the bottome of diſpair;
+<pb n="14" facs="tcp:56023:8"/>
+How am I become wretched, at the ſame inſtant that I ex<g ref="char:EOLhyphen"/>pected my greateſt happineſſe? O my Dear <hi>Lucina!</hi> Thy abſcence doth more torment me, then either my Impriſon<g ref="char:EOLhyphen"/>ment or death it ſelf.</p>
+               <p>What comfort can I receive now I am deprived of thy ſweet ſociety, which is as dear to me as my own ſoul. To whom wilt thou reveal thy ſorrow for my ſtrange departure, or how ſhalt thou be informed of my ſad miſchance?</p>
+               <p>Here do I languiſh in the Cuſtody of cruel and barbarous villains, which may perhaps after a tedious impriſonment, expoſe me to on Ignominious and ſhamefull death.</p>
+               <p>But however they ſhall be permitted to deal with me, yet ſhall my true affection to thee my Dear <hi>Lucina</hi> remain for ever firm and conſtant.</p>
+               <p>Iſabella <hi>(for ſo was the Gentlewoman called) hearing his dolorous complaint, was ſtruck into amazment, for where<g ref="char:EOLhyphen"/>as ſhe had ſome hopes before to gain his conſent to conduct her into</hi> Sicily <hi>by procuring his releaſe, ſhe was now almoſt dri<g ref="char:EOLhyphen"/>ven into diſpair, perceiving that his love was ſo firm and con<g ref="char:EOLhyphen"/>ſtant to his</hi> Lucina, <hi>that he would never be won to forſake</hi> Ar<g ref="char:EOLhyphen"/>cadia, <hi>however ſhe reſolved to make tryal, if ſhe could per<g ref="char:EOLhyphen"/>ſwade him by any poſſible <gap reason="illegible" resp="#UOM" extent="1 word">
+                        <desc>〈◊〉</desc>
+                     </gap>. So ſhe unlocked the Pri<g ref="char:EOLhyphen"/>ſon doore and went in, where ſhe found helpleſſe</hi> Floridon, <hi>be<g ref="char:EOLhyphen"/>wailing his condition without any hopes of redreſſe.</hi>
+               </p>
+               <p>Iſabella <hi>ſeeing him thus overcome with Mellancholy, began to comfort him in this manner.</hi> How now Sir, are your ſpi<g ref="char:EOLhyphen"/>rits ſo much dejected with one nights Impriſonment? chear up your heart and be merry, for it may ſo fall out; that a few dayes more may bring ſome comfort to your troubled minde. Floridon <hi>marked her words very attentively, but as yet he could not poſſibly underſtand her meaning, however he returned her this anſwer, in tearms ſuitable to his preſent condition.</hi>
+               </p>
+               <figure/>
+               <p>(Sweet Lady) VVhat your intent is to honour me with this viſit, I know not, however I am oblidged to your good<g ref="char:EOLhyphen"/>neſſe, for endeavouring to adminiſter comfort to a perſon in miſery. And were I capable of deſerving ſo great favour from you, I ſhould reſt a little ſatisfied in the midſt of my afflictions &amp; ſufferings; but having no other means left me to retaliate your kindnes, but by a thankful acknowledgment; you may pleaſe to accept the VVill for the Deed at preſent, &amp; ſo by conſequence I muſt remain your debtor. <hi>Sir, ſaid</hi> Iſa<g ref="char:EOLhyphen"/>bella, <hi>My viſit is not worthy of ſuch acknowledgment, for we are all bound in charity to comfort the diſtreſſed, in the number of whom I Rank you, though not in ſo deep a ſenſe as you believe your ſelf to be: And that you may conclude you are not alone miſerable, I ſhall tell you by what means, I my ſelf came here, where I remained for ſome time in as bad a condition as you are now in. For I ſuppoſe the Captain and his crew will not return untill night, ſo that with your pa<g ref="char:EOLhyphen"/>tience, I ſhall have ſufficient time to informe you of my un<g ref="char:EOLhyphen"/>fortunate chance.</hi>
+               </p>
+            </div>
+            <div n="4" type="chapter">
+               <pb n="16" facs="tcp:56023:9"/>
+               <head>CHAP. IV.</head>
+               <head type="sub">Here <hi>Iſabella</hi> relates to <hi>Floridon</hi> the place of her Birth and Breeding, and how ſhe was Married to <hi>Chri<g ref="char:EOLhyphen"/>ſipus</hi> who was her playfellow from their child<g ref="char:EOLhyphen"/>hood.</head>
+               <p>KNow (Gentle Sir) that my Native Country is <hi>Sciſille,</hi> a place that aboundeth with variety of all delights, where I was borne (I ſpeak without boaſting) of honourable and wealthy parents, which Death deprived me of, before I was twelve years old; but the fates ſo ordered it, that I was left wholy to the care of an Aunt (which was my fathers Siſter, and had no children) who tendered me as much as poſſibly my mother could have done, for what education and bréeding was ſutable to my Birth and Deſcent, I had plentifully be<g ref="char:EOLhyphen"/>ſtowed upon me, as well after as before the Deceaſe of my Parents; ſo that I quickly found, although I was left Fa<g ref="char:EOLhyphen"/>therleſs and Motherleſs, yet I was not altogether Friendleſs. During the time of my Minorite, it was my uſe to be often in the company of one <hi>Chriſipus</hi> a Gentlemans ſon which lived near to my Fathers, we were playfellowes from our child<g ref="char:EOLhyphen"/>hood, and took great delight on the ſociety of each other, which innocent familiarity continued and increaſed untill we came to riper years of diſcretion; inſomuch that we became both deeply inamoured, never counting our ſelves ſo happy as when we were together. After a long continuance of our amorous meetings, <hi>Chriſipus</hi> took an occaſion to diſcover his affection to me in this manner.</p>
+               <p>
+                  <pb n="17" facs="tcp:56023:9"/>My dear <hi>Iſabella,</hi> I know you are not ignorant of the Love that I ever bore you, ſince the firſt of our acquaintance, which I have ſo long ſmothered within my Breaſt, for fear to offend you, that it hath almoſt conſumed me to Aſhes; but in con<g ref="char:EOLhyphen"/>fidence of your goodneſs, I have made choyce of this oppor<g ref="char:EOLhyphen"/>tunity to reveal my paſſion, rather then to Languiſh without hopes of redreſs: Then Dear Heart, return me an anſwer according to the deſert of my Love, for it is in your Power to make me either Happy or Miſerable; and ſince the De<g ref="char:EOLhyphen"/>ceaſe of your Parents, hath left you to your own diſpoſing; I preſume more freely to crave your conſent, to beſtow your affection upon me; and I ſhall be ever ready to recompence ſo great a favour with the loſſe of my deareſt blood, whenſoever you ſhall pleaſe to comand me to ſpend it in your Service.</p>
+               <p>I ſtood ſeemingly amazed to hear this ſudain motion pro<g ref="char:EOLhyphen"/>céed from him, (though indeed it was no more then I deſired) ſo that after a little pauſe I return'd him this anſwer.</p>
+               <figure/>
+               <p>
+                  <hi>How comes it to paſſe <hi>Chriſipus,</hi> that you are fallen into ſuch extremity of paſſion all on a ſuddain? I muſt confeſs I alwayes believ'd you Loved me, when we were Children, as a playfellow, and ſince as an Acquaintance and Friend, in which ſence I have had the ſame Reſpect and Love for you; not thinking it would produce any other effects, then what might be diſpenc't with in our uſual familiarity; but I muſt now acknowledg that I finde ſuch an inclination in my Will, as can no way be ſatisfied, but by yielding to your
+<pb n="18" facs="tcp:56023:10"/>
+Motion; Therefore dear <hi>Chriſipus</hi> continue thy affection in ſincerity, and thou ſhalt alwayes finde thy <hi>Iſabella</hi> wil<g ref="char:EOLhyphen"/>ling to comply with thy deſires, ſo farr as modeſty will per<g ref="char:EOLhyphen"/>mitt.</hi> This anſwer of mine was no leſs pleaſing to him, then the diſcovery of his affection was to me; ſo that after a ſhort time, we concluded to ſteal a ſecret Marriage, which we might the better bring to paſſe, becauſe my Aunt was con<g ref="char:EOLhyphen"/>tented, I ſhould go to a friends houſe ſome ten miles diſtant in the Country, and ſtay a week or fortnight for my Recreation.</p>
+               <p>
+                  <hi>Chriſipus</hi> would by no means have me to acquaint my Aunt with our loves, for he did believe ſhe would never give con<g ref="char:EOLhyphen"/>ſent to our Mariage, in regard he was a Gentleman but of a mean Fortune, which was no hindrance at all to my affecti<g ref="char:EOLhyphen"/>on, however he thought ſhe would not ſtand out after it was done and paſt, which fell out according to his expectation; for after we were privately married in the Country, and that I was to return home again, my <hi>Chriſipus</hi> adviſed me to make it known to my Aunt, which I did; and with Weeping Tears upon my bended Knees, I deſired her pardon, for I did it with<g ref="char:EOLhyphen"/>out her knowledg, becauſe I feared ſhe would not have given her conſent.</p>
+               <figure/>
+               <p>
+                  <pb n="19" facs="tcp:56023:10"/>The good old Gentlewoman ſeeing me in that poſture, could not refrain from weeping, for ſhe was ſo tender hear<g ref="char:EOLhyphen"/>ted, and ſo compaſſionate, that ſhe did not ſhew me the leaſt angry countenance; but told me, ſince the Fates had ſo order<g ref="char:EOLhyphen"/>ed it, ſhe would not be a wanting in any thing that might pro<g ref="char:EOLhyphen"/>cure our content, and thereupon ſent for <hi>Chriſipus</hi> and gave us her Bleſſing, which was as great ſatisfaction to us, as if ſhe had given us the greateſt Treaſure that might be imagi<g ref="char:EOLhyphen"/>ned.</p>
+               <p>In this delight and content we lived for the ſpace of two years; at the end of which time, our joyes was eclipſed by the Death of my good Aunt, who had been a continual comfort to us upon all accounts: we had great cauſe to lament her loſs, although ſhe left us the greateſt part of her Eſtate, which was the cauſe of all our miſery afterwards, as you may well perceive by this following Relation.</p>
+            </div>
+            <div n="5" type="chapter">
+               <head>CHAP. V.</head>
+               <head type="sub">
+                  <hi>Iſabella</hi> continues her Relation to <hi>Floridon;</hi> How <hi>Chri<g ref="char:EOLhyphen"/>ſipus</hi> flew her Unckles Kinſman; And how they were forced to take ſhiping for <hi>Arcadia;</hi> And how their Ship ſunk, when they were within ſight of Shore.</head>
+               <p>MY Aunt at her death, left a ſmall part of her eſtate to a Kinſman of her Deceaſed Huſbands, but he not being contented with what ſhe had freely given him; laid claim to that which ſhe had given to my Huſband and me, whereupon they fell into a courſe of Law, which coſt them a great deal of Money, but at the laſt, my Husband got the bet<g ref="char:EOLhyphen"/>ter, and enjoyed the Eſtate, though much againſt my Kinſ<g ref="char:EOLhyphen"/>mans will, for he ſo exceedingly ſtomack't it, that we ſhould have it in deſpite of him, that what he could not gain by Law,
+<pb n="20" facs="tcp:56023:11"/>
+he endeavoured to compaſs by Treachery; for he hired two Villains which being Armed, ſet upon my Huſband at una<g ref="char:EOLhyphen"/>wars, as he was coming home one evening, and dangerouſly wounded him, and had ſurely ſlain him, had not two Gentle<g ref="char:EOLhyphen"/>men come accidentally to his Reſcue, who preſently ap<g ref="char:EOLhyphen"/>prehended the Villains, and had them before Authority, where they confeſſed the whole matter.</p>
+               <p>Not long after my Huſband was recovered of his Wounds, it was his fortune to meet with his Treacherus Kinſman, who would willingly have ſhun'd him, but my Huſband not be<g ref="char:EOLhyphen"/>ing able to govern his Paſſion, call'd to him to defend him<g ref="char:EOLhyphen"/>ſelf, when he ſee there was no remedy, he ſtayd, and both of them drew their Swords, where after a long diſpute, my <hi>Chriſipus</hi> chanced to kill him. Imediately after it was made known, they laid wait to apprehend <hi>Chriſipus,</hi> who fled by night to a poore womans houſe, where he lay ſecure untill the ſearch was over. In the mean time, they ſeazed on our Eſtate, all but ſome Plate and Iewels, which I convey'd away by two truſty Servants to the place where my huſband was, to whom I came the night following, to know what he inten<g ref="char:EOLhyphen"/>ded to doe, he told me for his own ſafety, to convey himſelf privately into <hi>Arcadia,</hi> where he had an Vnkle, a wealthy Knight, with whom he would abide untill he might ſafely re<g ref="char:EOLhyphen"/>turn into <hi>Sciſily</hi> again.</p>
+               <p>When I underſtood his reſolution, I vow'd to accompany him, and to participate of what Fortune had alotted for us.</p>
+               <p>When he ſee there was no other remedy, he ſent his Ser<g ref="char:EOLhyphen"/>vant to the Sea ſide, to provide for our paſſage, who retur<g ref="char:EOLhyphen"/>ned and told him, that the evening following, we might come to the next Bay, where a Ship-maſter would expect us, who had ſpecial buſineſs into <hi>Arcadia.</hi> Night being come, we truck't up what we could poſſible carry, and with one man and a maid, haſted away to the place appointed, where accor<g ref="char:EOLhyphen"/>ding to our deſire, we found the Maſter attending us, who willingly took us Aboard, after we promiſed him good pay.</p>
+               <figure/>
+               <p>My <hi>Chriſipus</hi> being afraid to be purſued, perſwaded the Maſter to put off into the Road, and there to Ride at Anchor untill it was day light, which he did, and then ſet Saile with a fair wind as could be deſired; we had as ſpeedy and brave paſſage as we could wiſh for, untill we were gotten within ſight of y<hi rend="sup">e</hi> place we intended to land at, when all of a ſudden, by what means, I know not, out Ship ſprung a leak, which in leſs then half an hour after it was diſcovered, ſunk her quite under Water: then there was ſhreeking, and crying, and throwing out Goods to ſave Life, but all in vain; for I be<g ref="char:EOLhyphen"/>lieve the moſt of the company, (if not all) beſides my ſelf pe<g ref="char:EOLhyphen"/>riſhed: But as the fates would have it, I happened to get upon a great Cheſt, in hopes to prolong my life, upon which Cheſt, I was driven by the winde almoſt to Shore, where a Fiſher-man eſpied me, and made what haſte he could to help me with his Boat, for I was almoſt quite ſpent. O what cauſe had I to rejoyce for my great deliverance, and what
+<pb n="22" facs="tcp:56023:12"/>
+ſorrow did I endure for the loſs of my dear <hi>Chriſipus;</hi> now was I left in a ſtrange Country, deſtitute of friends, or any aſſiſtance, but only this poore Fiſherman, who took me to his cottage, where I uſed the beſt means I could to dry my cloaths, and to recover my faint and overwearied Spirits; I bountifully rewarded him for his kindneſs, and agreed with him to conduct me to the next town, where I intended to uſe ſome means to finde out my Husbands Vnckle, Who I did ſuppoſe might live thereabouts; the poore man was very wil<g ref="char:EOLhyphen"/>ling, and lead me the ſafeſt way he could, untill we came near this wood where unfortunately we met this Captain and his followers, who took me and brought me by force to this Cave, where I have remained almoſt half a year in this con<g ref="char:EOLhyphen"/>dition as you now finde me.</p>
+               <p>By that time <hi>Iſabella</hi> had made an end of her ſtory, ſhe heard the Captain and the reſt of them enter the Cave, ſo that ſhe was glad to retire into another roome, and to leave diſtreſ<g ref="char:EOLhyphen"/>ſed <hi>Floridon</hi> admiring at her pittiful relation, and caſting in his minde what the event of his impriſonment would come to. But the frequent going abroad of theſe Robbers, might give <hi>Iſabella</hi> another opportunity to diſcover her intentions to Lan<g ref="char:EOLhyphen"/>guiſhing <hi>Floridon,</hi> whom we muſt leave for a ſmall time, and return to ſee what became of his dear <hi>Lucina</hi> after his depar<g ref="char:EOLhyphen"/>ture.</p>
+            </div>
+            <div n="6" type="chapter">
+               <head>CHAP. VI.</head>
+               <head type="sub">How <hi>Lucina</hi> lamented for <hi>Floridons</hi> departure; And how Sir <hi>Malpas,</hi> when he could not gain her af<g ref="char:EOLhyphen"/>fection, ſurprized her as ſhe came from <hi>Loves Para<g ref="char:EOLhyphen"/>dice,</hi> and carried her to his caſtle by force.</head>
+               <p>THe ſame evening that <hi>Floridon</hi> was ſo ſuddainly ſnatcht away by the Out-laws. His ſervants ſeeing he came not
+<pb n="23" facs="tcp:56023:12"/>
+home according to his wonted cuſtome; ſome of them went to ſee what was become of him, but when they found he had not been with <hi>Lucina,</hi> they were all ſtruck into amazment; eſpe<g ref="char:EOLhyphen"/>cially fair <hi>Lucina,</hi> who was ready to tear her haire for grief. Her friends ſought by all poſſible means to comfort her, with hopes of finding him the next day; nevertheleſs ſhe could take no reſt that night, but ſo ſoon as morning appeared, ſhe ha<g ref="char:EOLhyphen"/>ſted to <hi>Loves Paradice</hi> expecting to finde him there, but miſſing of him there, her ſorrow was greater then before. Then was it that ſhe retired her ſelf into a private Arbour, to la<g ref="char:EOLhyphen"/>ment the abſcence of her Lover in the aforegoing Ditty. Ne<g ref="char:EOLhyphen"/>ver was Lady in a greater perplexity, nor could be more ſen<g ref="char:EOLhyphen"/>ſible of ſo great a loſs. At her return ſhe diſpatcht meſſen<g ref="char:EOLhyphen"/>gers to all places round about, with charge to uſe all diligence to finde him Dead or alive.</p>
+               <p>They beſtowed a great while in a vain ſearch, and at the laſt was forced to return without the leaſt tidings, or hopes of finding him. But his ſudain departure being conſidered by his friends, gave them great cauſe to ſuſpect, y<hi rend="sup">t</hi> a Knight which lived not farr from thence, had wrought his ruine by Treachery. This Knights name was Sir <hi>Malpas,</hi> he was a Perſon of great Authority in thoſe parts, but of a rugged and ſterne diſpoſition, Of a middle age, having never been Mar<g ref="char:EOLhyphen"/>ried, though he had formerly courted a Lady whoſe name was <hi>Mariana,</hi> untill he had won her affection, and at length baſe<g ref="char:EOLhyphen"/>ly caſt her off to her great grief; This Sir <hi>Malpas</hi> bore a be<g ref="char:EOLhyphen"/>hement Love to Faire <hi>Lucina,</hi> &amp; had uſed all poſſible means to gain her affection, but he ſtill found his love ſlighted, and <hi>Floridon</hi> entertained, ſo that he bore an inveterate hatred to <hi>Floridon,</hi> which was the cauſe he was ſuſpected of treachery (though indeed) he was not at all guilty of <hi>Floridons</hi> being ſurpriſed.</p>
+               <p>But it was not long before the newes of <hi>Floridons</hi> abſence came to Sir <hi>Malpas</hi> ears, ſo he thought now or never to make his addreſs to <hi>Lucina,</hi> and to renew his Sute, which he was in hopes ſhe might now liſten too; becauſe ſhe diſpaired ever to ſée <hi>Floridon</hi> again. But alaſs, Sir <hi>Malpas</hi> was deceived, for <hi>Lucina</hi> believing him to be the author of her Loves abſcence, would not ſo much as indure the very fight of him, but com<g ref="char:EOLhyphen"/>manded
+<pb n="24" facs="tcp:56023:13"/>
+her ſervants that for the future, they ſhould never ad<g ref="char:EOLhyphen"/>mitt him into her preſence, which ſo much incenſed y<hi rend="sup">e</hi> Knight, that he reſolved, if it were poſſible, to gain that by force, which he could not obtain by conſent.</p>
+               <p>In the mean time, his old Love <hi>Mariana,</hi> hearing that he made ſute to <hi>Lucina,</hi> was much inraged, and exclaimed a<g ref="char:EOLhyphen"/>gainſt him for his diſloyalty in ſharp and bitter tearms: but when ſhe underſtood <hi>Lucina's</hi> conſtancy to <hi>Floridon,</hi> ſhe was a little comforted, and reſolved to chear her ſpirits a while lon<g ref="char:EOLhyphen"/>ger with that ſweet ſociety in <hi>Loves Paradice,</hi> untill ſhe might ſee what effects this thing would produce. Sir <hi>Malpas</hi> was not at all moved with her ſorrow, but uſed all endeavours to get <hi>Lucina</hi> into his poſſeſſion, and if poſſible, to win her to his will, either by intreaty or elſe by force, which deſign he put in execution on this manner.</p>
+               <p>
+                  <hi>Lucina</hi> (to mitigate her ſorrow for the abſcence of her Lo<g ref="char:EOLhyphen"/>ver) uſed conſtantly to repaire once a day to <hi>Loves Paradice,</hi> and there to condole the loſs of her Dear <hi>Floridon,</hi> which Sir <hi>Malpas</hi> obſerving, and waiting his opportunity, one evening as ſhe was returning home all alone, he ſudainly ſurpriſed her, and with all poſſible ſpeed, convey'd her to his Caſtle ſo pri<g ref="char:EOLhyphen"/>vately, as it was without the knowledg of any, but thoſe whom he might confidently truſt.</p>
+               <figure/>
+               <p>
+                  <pb n="25" facs="tcp:56023:13"/>Now was <hi>Lucina</hi> in the ſaddeſt condition that ever poore creature was in, having loſt her own liberty, and with that, the hopes of ever ſeeing her Love again. Beſides ſhe was fallen into the hands of him ſhe counted as her mortall enemy, though he gave order ſhe ſhould be treated with all the civility that might be, in hopes thereby to win her affection, but it was all in vain, for the was now ten times more inraged a<g ref="char:EOLhyphen"/>gainſt him then before, ſo that for all the means that ever he could uſe, ſhe would not ſhow him the leaſt countenance that might be. But O what mourning and lamenting was there for the loſs of <hi>Lucina</hi> amongſt her friends, when they could not finde her, for they all conclude ſhe had made her ſelf away in ſome deſperate manner.</p>
+               <p>They did not at all ſuſpect Sir <hi>Malpas</hi> treachery to <hi>Lucina,</hi> as they did to <hi>Floridon,</hi> becauſe be loved <hi>Lucina,</hi> but he hated <hi>Floridon.</hi> Nor did any of her friends ſeem to be more trou<g ref="char:EOLhyphen"/>bled for her loſs, then Sir <hi>Malpas,</hi> who ſorrowed exceedingly, the better to clear himſelf from all ſuſpicion, for he had de<g ref="char:EOLhyphen"/>prived her of all means and ways to give notice of her re<g ref="char:EOLhyphen"/>ſtraint; ſo that ſhe was now become as wretched as <hi>Floridon;</hi> neither of them knowing the nature of one anothers mi<g ref="char:EOLhyphen"/>ſery.</p>
+            </div>
+            <div n="7" type="chapter">
+               <head>CHAP. VII.</head>
+               <head type="sub">How <hi>Mariana</hi> exclaimed againſt Sir <hi>Malpas</hi> for his diſloyalty, whom he careleſly caſt off and returned to <hi>Lucina,</hi> who would by no means yeild to his will: And how he reſolved to remove her into <hi>Florence.</hi>
+               </head>
+               <p>DUring the time of <hi>Lucina's</hi> reſtraint ſhe had too many viſits from her cruel Lover (or rather Iaylor) Sir <hi>Malpas</hi> who finding her ſtill to perſiſt in her obſtinacy, he reſolved to try her by harſher uſage, and to that end, he gave order that ſhe
+<pb n="26" facs="tcp:56023:14"/>
+ſhould be very ſtrictly lookt too, for he would make her know what power he had over her, now ſhe was in his cuſtody, and ſo he preſently went out of the room, and walk't abroad into a pleaſant meadow near adjoyning, to meditate of his own unhappineſs. where in the midſt of his Mellancholy mu<g ref="char:EOLhyphen"/>ſings, he was diſturbed and encountered, by his former Love. The languiſhing and almoſt deſperate <hi>Mariana.</hi>
+               </p>
+               <p>Who finding him alone in a place ſo convenient, took the opportunity to accoſt him in this manner.</p>
+               <p>
+                  <hi>Thou falſe and diſloyal Knight Sir <hi>Malpas,</hi> ſhut not thy ears, whilſt I juſtly complain of thy cruel and perfidious dealings, with thy conſtant (though wrongfully abuſed) <hi>Mariana.</hi> How long ſhall I languiſh under the burden of thy diſplea<g ref="char:EOLhyphen"/>ſure, and be ſlighted and rejected for nothing but too much loving thee. Haſt thou forgotten the time that thou ſued to me for Love, as much as I do now to thee, remember uncon<g ref="char:EOLhyphen"/>ſtant creature that I did not continue ſo hard hearted to thee; as thou doſt now to me. Then obſerve that I do but deſire the like pitty, as I ſhewed to thee in the ſame condition, which if thou ſhalt refuſe to grant, be aſſured the gods will not fail to puniſh thy cruelty, but will pay thee in thy own coyne, for upon whomſoever thou ſhalt caſt thy affection, ſhe ſhall as much diſdain thee, as thou now ſlighteſt me.</hi>
+               </p>
+               <figure/>
+               <p>
+                  <pb n="27" facs="tcp:56023:14"/>Theſe laſt words of hers ſo nearly toucht the diſloyal <hi>Mal<g ref="char:EOLhyphen"/>pas</hi> that he haſtily flung from her without returning her any anſwer at all, but ſhe took ſo much time as to tell him, ſhe did not fear but to ſee him ſo verely puniſht for his ingratitude and unconſtancy. And ſo ſhe retired her ſelf to enjoy her mellan<g ref="char:EOLhyphen"/>choly meditations. And he returned home to try if the diſcon<g ref="char:EOLhyphen"/>ſolate <hi>Lucina</hi> would accept of his ſervice.</p>
+               <p>This Sir <hi>Malpas</hi> had in the Caffie with him, a very Anti<g ref="char:EOLhyphen"/>ent woman which had been his Nurſe, whom he now appoin<g ref="char:EOLhyphen"/>ted to be <hi>Lucina's</hi> Guardian, and gave her directions to uſe all the skill ſhe could to perſwade <hi>Lucina</hi> to yield to his Love.</p>
+               <figure/>
+               <p>After a deep ſigh or two, <hi>Lucina</hi> recollected her ſpirits a little, and ſpake to him in this wiſe.</p>
+               <p>
+                  <hi>Sir, Whether my anſwer may prove according to your deſires or no, I know not; but I am ſure it will be according to your de<g ref="char:EOLhyphen"/>ſert. Can you expect to finde the leaſt Love from a perſon ſo much injured as I am by you. Have you not firſt deprived me of my</hi> Floridon, <hi>whoſe love was more dear to me then the whole world beſides, and ſince of my liberty; then which nothing can be more ſweet and comfortable. Am I not here mew'd up from the ſociety of all my Friends and Relations, and is that the way to procure my love: Oh no! the remembrance of my</hi> Floridon <hi>is more dear to me then ſo.</hi>
+               </p>
+               <figure/>
+               <p>Here Sir <hi>Malpas</hi> called Heaven and Earth to witneſs, that he knew nothing at all of <hi>Floridons</hi> departure, nor was in the leaſt guilty of his loſſe. And then he began to excuſe himſelf for bringing her to his Caſtle againſt her will; with<g ref="char:EOLhyphen"/>all, promiſing her all the liberty ſhe could deſire, and what ever elſe might ſtand with her content, if ſhe would agree and yield to his Love.</p>
+               <p>She told him, ſhe was very uncapable as yet to liſten to any ſuch motion, and deſired him to make his love appear by gran<g ref="char:EOLhyphen"/>ting her liberty, and time to wear out her woe for the loſſe of her Lover, and it might be afterwards ſhe might liſten to his Suit. But he would by no means conſent to let her have li<g ref="char:EOLhyphen"/>berty, but ſtill urged her for Mariage, which ſhe was reſol<g ref="char:EOLhyphen"/>ved within her ſelf, rather to dye then ever to conſent to it. She told him, if the fates had ſo order'd it, that ſhe muſt be forced by his means to ſpend her dayes in Impriſonment, ſhe was willing to ſubmit to it, ſince ſhe could enjoy no comfort in any place without the ſociety of her dear <hi>Floridon,</hi> who if he were alive and ſhould come to the knowledg of her ſuffer<g ref="char:EOLhyphen"/>ings, ſhe made no doubt but he would take a juſt revenge upon the Author thereof; if not, the powers above would never ſuf<g ref="char:EOLhyphen"/>fer ſuch Villanous treachery to paſſe without ſevere puniſh<g ref="char:EOLhyphen"/>ment. When Sir <hi>Malpas</hi> ſaw he could doe no good of her in
+<pb n="30" facs="tcp:56023:16"/>
+that humour, he adviſed her to conſider better of it, and ſo took his leave of her, and ſhe was very glad to be rid of him, that ſhe might return to her wonted ſorrow; but he was in ſuch a fret, that he could not imagine what to doe, for to force her to his will, he could not, but it would be known by her friends that lived ſo near.</p>
+               <p>So that he concluded his onely way would be to remove her into another Country for a while, where ſhe might poſſibly be more willing to conſent, when ſhe ſee no hopes of ever return<g ref="char:EOLhyphen"/>ing; this reſolution pleaſed him ſo well, that he intended to travail into <hi>Sciſily</hi> to viſit a brother which he had living there; but indeed his deſign was for <hi>Florence,</hi> where he intended to continue untill <hi>Lucina</hi> might conforme to his will.</p>
+            </div>
+            <div n="8" type="chapter">
+               <head>CHAP. VIII.</head>
+               <head type="sub">How <hi>Chriſipus</hi> came to viſit his Unkle Sir <hi>Malpas,</hi> and related to him the means of his eſcape from drown<g ref="char:EOLhyphen"/>ing; And how Sir <hi>Malpas</hi> diſcovered his deſign to <hi>Chriſipus</hi> of his intent to carry <hi>Lucina</hi> into <hi>Flo<g ref="char:EOLhyphen"/>rence.</hi>
+               </head>
+               <p>WHilſt he was contriving this plot againſt the innocent and wronged <hi>Lucina,</hi> one of his ſervants came and told him that a ſtranger below in the Court deſired to ſpeak with him; Sir <hi>Malpas</hi> gave order he ſhould come in, and ſo made haſte to meet him; and as ſoon as he came near him, he per<g ref="char:EOLhyphen"/>ceived it was <hi>Chriſipus</hi> his brothers ſon of <hi>Scicily,</hi> whom he kindly imbraced, and after mutual Salutation, deſired to know if his Father were in health, to whom <hi>Chriſipus</hi> reply'd that his Father had been dead about half a year, and that him<g ref="char:EOLhyphen"/>ſelf had very hardly eſcaped death by a ſtrange accident. Sir <hi>Malpas</hi> was very deſirous to hear the relation of his adventure, which <hi>Chriſipus</hi> was willing to ſatisfie him in, and ſo related
+<pb n="31" facs="tcp:56023:16"/>
+to his Vnckle the very ſame ſtory that his <hi>Iſabella</hi> had told to <hi>Floridon</hi> in the Cave. Firſt of his Marriage with <hi>Iſabella,</hi> and likewiſe how he had ſlain her Vnckles Kinſman, and be<g ref="char:EOLhyphen"/>ing forced (quoth he) to flee to <hi>Arcadia</hi> for my own ſafety.</p>
+               <p>
+                  <hi>It hapned that our Ship ſunk, where for any thing I know, all the company except my ſelf periſhed, and amongſt the reſt my dear</hi> Iſabella; <hi>for whilſt every one was endeavouring to ſave their lives, it was my fortune to beſtride an Empty Hogſhead, upon which I was tumbled in the Sea, untill by chance, a crew in a Long-boat which belonged to a</hi> Scythian <hi>Pirate took me up, and carried me a Ship-board, where they pillaged me of all they could finde about me, and believing that I was ſo weak I could not live, they left me on ſhore ſome ten miles from this place, where they came to take in freſh water. With much adoe I got to a Farmers houſe, where I was courteouſly entertained, untill I was able to finde out your Caſtle, where I ſhould count my ſelf to be exceeding happy after all my ſufferings, if it were not for the grief I indure for the loſs of my Dear</hi> Iſabella.</p>
+               <p>Sir <hi>Malpas</hi> was greatly moved to hear the relation of his Kinſmans ſufferings, and endeavoured to comfort him; by promiſing to ſend meſſengers along the Sea-ceaſt, to know if they could hear any tideings of <hi>Iſabella.</hi> With ſuch like diſ<g ref="char:EOLhyphen"/>courſe they ſpent the time untill it was night, when every one repaired to their reſt, but Sir <hi>Malpas</hi> could take none, he was ſo diſtracted in his minde about <hi>Lucina,</hi> one while he intended to impart the matter to <hi>Chriſipus,</hi> and then again he doubted that <hi>Chriſipus</hi> would never conſent to aſſiſt him in ſo ignible an enterpriſe. At length his will overcame his reaſon, and finding he could no way bring his deſign about; but that <hi>Chri<g ref="char:EOLhyphen"/>ſipus</hi> would know of it; he reſolved to acquaint him with it in the morning, but in ſuch a manner, as he ſhould not perceive the action to be ſo groſſe as indeed it was. The next morning Sir <hi>Malpas</hi> ſent for him down into a large Parlour, where after they had taken a light breakfaſt, they walked out into a private Garden, which gave ſufficient opportunity to Sir <hi>Malpas</hi> to diſcover his intentions in this manner.</p>
+               <p>
+                  <hi>Since <hi>Chriſipus</hi> it is your Fortune to happen hither at this time, I ſhall intruſt you with a ſecret that much concerns me, which as yet, none knows but my ſelf; It is ſo that I have
+<pb n="32" facs="tcp:56023:17"/>
+caſt my affection upon a Lady much deſerving, which by ac<g ref="char:EOLhyphen"/>cident was brought to my Caſtle, who is ſo regardleſſe of my love, that no perſwaſions will work with her. Now I finde my ſelf unable to live without the enjoyment of her, therefore it is my reſolution to remove her from hence into <hi>Florence,</hi> and there to remain untill I ſhall perſwade her to yield to my will; not in the leaſt to violate her chaſtity, but to conſent to lawfull marriage.</hi>
+               </p>
+               <p>
+                  <hi>Chriſipus</hi> believing the buſineſs to be no otherwiſe then his Vnckle had related, was loath to enquire further into it, leaſt he ſhould offend him, and therefore return'd him this anſwer.</p>
+               <p>
+                  <hi>Sir if your affection be grounded upon a deſerving Subject, and that without the enjoyment thereof, you can take no comfort; then I ſuppoſe you may uſe any lawfull means to gain her affection, and if you be in hopes that change of Countryes may either mittigate your paſſion, or make her more inclinable, it will not be amiſſe to make tryal; and for my own part Sir, you ſhall finde me ready to aſſiſt you in a<g ref="char:EOLhyphen"/>ny thing which may ſuite with your honour and repute.</hi>
+               </p>
+               <p>Sir <hi>Malpas</hi> was glad to finde him ſo conformable to his will, and thereupon he told <hi>Chriſipus,</hi> that he intended to leave him intruſted with all his whole eſtate, that he might return him moneys as his occaſions ſhould require, and likewiſe to ma<g ref="char:EOLhyphen"/>nage his buſineſs in his abſcence, that nothing might be a<g ref="char:EOLhyphen"/>miſs at his return. And in this reſolution they walk't in to conſult about things convenient for their deſign: Where we will leave them making preparation, and return to the Cave to ſee how <hi>Floridon</hi> and <hi>Iſabella</hi> fares, whom we left ſepara<g ref="char:EOLhyphen"/>ted by the coming in of the Robbers from ranging abroad.</p>
+            </div>
+            <div n="9" type="chapter">
+               <pb n="33" facs="tcp:56023:17"/>
+               <head>CHAP. IX.</head>
+               <head type="sub">How <hi>Iſabella</hi> dealt with the Captain by policy to pre<g ref="char:EOLhyphen"/>ſerve her chaſtity; And how ſhe went once more to conſult with <hi>Floridon</hi> about their releaſe.</head>
+               <p>THe Captain of this gang, as I told you before; was mightily indeared in affection to <hi>Iſabella,</hi> yet he never of<g ref="char:EOLhyphen"/>fered to abuſe her honour, in regard ſhe had in policy promi<g ref="char:EOLhyphen"/>ſed him to be wholy at his command after one years ſorrowing for the loſs of her husband, during which time, ſhe would ra<g ref="char:EOLhyphen"/>ther dye a thouſand deaths, then ſuffer her ſelf to be abuſed. So that the Captain was contented to contain himſelf for ſo long, rather then to hazard her love for the future, which he made ſo full account to enjoy. <hi>Iſabella</hi> on the contrary, de<g ref="char:EOLhyphen"/>ſired nothing ſo much as to worke her releaſe in that time, which ſhe had hopes the better now to effect, by <hi>Floridons</hi> aſ<g ref="char:EOLhyphen"/>ſiſtance, in regard ſhe perceived him to be a perſon with whom ſhe might truſt her life and honour. She prevailed with the Captain that <hi>Floridon</hi> might be civily uſed, in regard he was a perſon of quality, and one that had never offended him in the leaſt. So he gave conſent, that <hi>Floridon</hi> ſhould not be bound, but have liberty to walke about the room; notwithſtanding, he told <hi>Iſabella</hi> that he intended to ſell him to the firſt Pirate which hapned upon that Coaſt; for he did not doubt but to receive a good ſum of money for him.</p>
+               <p>
+                  <hi>Iſabella</hi> thought long to have an opportunity to acquaint <hi>Floridon</hi> with his intent, which hapned the next day, when the Robbers were gone abroad according to their conſtant uſe: then ſhe went to viſit diſconſolate <hi>Floridon,</hi> to whom ſhe re<g ref="char:EOLhyphen"/>vealed this ſad news, which ſo much troubled his minde, that he diſpaired ever to ſee his <hi>Lucina</hi> again, who (though un<g ref="char:EOLhyphen"/>known to him) was in as ſad a condition as himſelf.</p>
+               <figure/>
+               <p>
+                  <hi>Iſabella</hi> ſeeing him ſo overcome with grief, endeavoured to comfort him all ſhe could, and told him; that her condition was altogether as bad as his and rather worſe: for though he was taken from his <hi>Lucina,</hi> who probably is living &amp; in health, ſhe was deprived of her <hi>Chriſipus,</hi> who (for any thing ſhe knew) was ſwallowed up of the mercileſs ſeas: And therefore ſhe deſired him to take comfort and to endeavour their releaſe, to the furtherance whereof, ſhe promiſed her utmoſt aſſiſtance, upon condition he would ingage to convey her home again in<g ref="char:EOLhyphen"/>to <hi>Sciſily,</hi> for having loſt her <hi>Chriſipus,</hi> ſhe could not think her ſelf in ſafety any where elſe. <hi>Floridon</hi> was much revived to hear theſe comfortable ſpeeches from <hi>Iſabella,</hi> for he was wil<g ref="char:EOLhyphen"/>ling to promiſe and likewiſe to perform any thing to get out of the hands of theſe wicked wretches, ſo that he thus reply<g ref="char:EOLhyphen"/>ed.</p>
+               <p>
+                  <hi>Courteous Lady, I am bound beyond all expreſſion to your worth and goodneſſe, for all the civility that I have found ſince I came amongſt theſe barbarous and uncivil Villains, ſo that <hi>I</hi> am never able to requite your kindneſſe, whilſt I re<g ref="char:EOLhyphen"/>main in this condition. But Madam, if the Fates ſhall once free us from this wretched captivity, I ſhall to the utmoſt of my power, ſtrive to ſerve you in whatſoever may procure your content.</hi>
+               </p>
+               <p>
+                  <pb n="35" facs="tcp:56023:18"/>She courteouſly thanked him for his Love, and told him ſhe did not fear but providence would finde ſome way for their releaſe ere long, and ſo ſhe took her leave, for fear the Cap<g ref="char:EOLhyphen"/>tain ſhould return and finde her with him, which might prove much to the prejudice of them both.</p>
+               <p>It was not long before the Captain came fretting and fume<g ref="char:EOLhyphen"/>ing for the loſs of one of his men, which was ſlain at a skir<g ref="char:EOLhyphen"/>miſh by ſome travellers, which they ſet upon to Robb: ſo that he had now but ſix men left, two to guard the Cave, and foure to goe abroad with him, to look out for proviſion. But he did not much value it, for he truſted moſt to the ſtrength and obſcurity of the Cave, which was ſo overgrown with bu<g ref="char:EOLhyphen"/>ſhes and brambles, that it was almoſt impoſſible ever to finde it out. But it is now time to leave them a while to their wicked practiſe; and ſee what preparation Sir <hi>Malpas</hi> makes for his journey with <hi>Lucina</hi> into <hi>Florence.</hi>
+               </p>
+            </div>
+            <div n="10" type="chapter">
+               <head>CHAP. X.</head>
+               <head type="sub">How Sir <hi>Malpas</hi> and his company carrying away <hi>Lu<g ref="char:EOLhyphen"/>cina;</hi> Was ſet upon by the Out-laws, which be<g ref="char:EOLhyphen"/>longed to the Cave, betwixt whom there was a ve<g ref="char:EOLhyphen"/>ry ſharp Fight; And how <hi>Floridon</hi> found <hi>Lucina,</hi> and <hi>Chriſipus, Iſabella</hi> at this encounter, where Sir <hi>Malpas</hi> and the Captain was both ſlain.</head>
+               <p>THis Knight Sir <hi>Malpas</hi> had a long debate, with his Kinſ<g ref="char:EOLhyphen"/>man <hi>Chriſipus,</hi> in what manner to break the matter to <hi>Lu<g ref="char:EOLhyphen"/>cina;</hi> at length it was agreed that Sir <hi>Malpas</hi> ſhould go in perſon, and let her know, that he had an intention for his re<g ref="char:EOLhyphen"/>creation, to remove for a ſmall time with part of his family to another houſe, which he had at the further ſide of the Pro<g ref="char:EOLhyphen"/>vince, where ſhe ſhould enjoy her liberty and whatever elſe might yield her either ſatisfaction or delight. When he had
+<pb n="36" facs="tcp:56023:19"/>
+told <hi>Lucina</hi> this ſtory and expected her anſwer; ſhe replyed a<g ref="char:EOLhyphen"/>gain, <hi>That ſince by his treachery ſhe was fallen into his cu<g ref="char:EOLhyphen"/>ſtody, he might carry her whether he pleaſed by force, but he ſhould never enjoy her company one minuite by conſent, nei<g ref="char:EOLhyphen"/>ther did ſhe doubt but the Powers above in recompence of her wrong, would ſhowre down ſome fearfull judgment upon him before he came to his journeys end.</hi> Theſe threatnings nothing at all terrified the treacherrus Knight, for he ſtill perſiſted in his reſolution, and kept his anſwer private from <hi>Chriſipus,</hi> ſmoothing over to him after another manner, ſo that nothing remaind now, but to get al things in readineſs to ſet forward. When Sir <hi>Malpas</hi> had called his Servants together he gave them all charge to be ſubject to his Kinſman <hi>Chriſipus</hi> untill his return, then he gave order to have all things made ready for ſo long a journey, and appointed foure men to goe a<g ref="char:EOLhyphen"/>long with him, whereof two was to return back with <hi>Chriſi<g ref="char:EOLhyphen"/>pus,</hi> who would needs goe along with him to ſee them ſafely Shipt. All things being made ready, they ſet forward in the morning before it was day light, for fear that any body ſhould diſcover <hi>Lucina</hi> to be in his company, who (poor ſoul) tra<g ref="char:EOLhyphen"/>vailed with a ſad and heavy heart, but on the contrary, Sir <hi>Malpas</hi> was chearfull and merry, thinking he had eſcaped all danger; when indeed, it was but juſt approaching: For by that time they had rid about twelve miles on their journey, two of the ſervants being about half a mile before with the Sumpter Horſe, they were ſeaz'd upon by the aforeſaid rob<g ref="char:EOLhyphen"/>bers belonging to the Cave, and immediately drawn into the wood, which Sir <hi>Malpas</hi> and <hi>Chriſipus</hi> eſpying with another of the ſervants; they clapt ſpurrs to their horſes to purſue in all haſte, and left one ſervant to bring along <hi>Lucina</hi> after them, which he might eaſily doe, they made ſuch a noiſe all the way they rid. It was not long before they overtook theſe Robbers, who was gotten almoſt to the Cave with ſuch a booty, as they had never yet hapned on before. But <hi>Chriſi<g ref="char:EOLhyphen"/>pus</hi> told them they ſhould buy that treaſure at a dearer rate, be<g ref="char:EOLhyphen"/>fore it proved to be their purchaſe. So by that time the ſer<g ref="char:EOLhyphen"/>vant with <hi>Lucina</hi> came to them, they were all with their ſwords drawn, dealing blows very freely; <hi>Chriſipus</hi> laid a<g ref="char:EOLhyphen"/>bout him like a mad man, and <hi>Sir Malpas</hi> and his ſervants be<g ref="char:EOLhyphen"/>haved
+<pb n="37" facs="tcp:56023:19"/>
+themſelves very ſtoutly, and had much the better of the fray, but the two thieves which were left to guard the Cave, ſeeing their Captain and fellows in ſuch danger, ran with all ſpeed to their ſuccour, and for haſte by good fortune left the entrance of the Cave open, which <hi>Iſabella</hi> perceiving, ſhe went preſently to tell <hi>Floridon,</hi> that the Robbers were all in fight with a company of travailers and had left the Cave o<g ref="char:EOLhyphen"/>pen, and that now was the time to purchaſe their liberty.</p>
+               <figure/>
+               <p>
+                  <hi>Floridon</hi> ſtood not long to pauſe, after he got out of his pri<g ref="char:EOLhyphen"/>ſon, but ſnatch't up a good Sword which he found in the next roome and made haſte to help the gentlemen who was almoſt worſted by the Robbers. But ſo ſoon as <hi>Floridon</hi> came a<g ref="char:EOLhyphen"/>mongſt them, he did ſo beſtir him, that with the help of <hi>Chri<g ref="char:EOLhyphen"/>ſipus,</hi>
+                  <pb n="38" facs="tcp:56023:20"/>
+they had quickly killed three of the Villains, but in the mean time, the Captain had given Sir <hi>Malpas</hi> a mortall wound in the ſide, and turning his horſe haſtily to ſtrike at <hi>Chriſipus,</hi> the horſe chanced to fall and broke the Captains thigh-bone; the reſt of the Thieves ſeeing three of their company ſlain, and their Captain diſabled to fight; they fled with ſpeed, but <hi>Chri<g ref="char:EOLhyphen"/>ſipus</hi> purſued them, till on a ſudden, he met his <hi>Iſabella</hi> coming from the Cave, to his great wonder and admiration.</p>
+               <p>But when <hi>Iſabella</hi> ſaw <hi>Chriſipus,</hi> ſhe was ſo tranſported with joy, that ſhe had not power for the preſent to ſpeak to him. In the mean time, <hi>Lucina</hi> perceiving it was <hi>Floridon</hi> which came ſo fortunately to their aid; ſhe ran to him and had like to have ſwooned in his armes for joy. But ſo ſoon as Sir <hi>Malpas</hi> ſer<g ref="char:EOLhyphen"/>vants ſaw it was <hi>Floridon,</hi> whom their Maſter ſo much hated, they all ſet upon him to have ſlain him. Then <hi>Iſabella</hi> cryed out to <hi>Chriſipus</hi> to ſave him, who preſently commanded the ſervants to put up their ſwords, and ſee what condition their maſter was, in whom they found to be dangerouſly wounded.</p>
+               <p>Whilſt they were buſie about Sir <hi>Malpas. Floridon</hi> had time to imbrace <hi>Lucina,</hi> and <hi>Chriſipus, Iſabella,</hi> all admiring by what chance they were ſo ſtrangely brought together, but had not time at preſent to relate; onely <hi>Lucina</hi> told <hi>Floridon,</hi> how that treacherous Knight intending her ruine had wrought his own deſtruction. <hi>Iſabella</hi> deſired <hi>Chriſipus</hi> to accept of <hi>Flo<g ref="char:EOLhyphen"/>ridon</hi> as a friend, and <hi>Floridon</hi> knowing <hi>Chriſipus</hi> to be <hi>Iſa<g ref="char:EOLhyphen"/>bella's</hi> Huſband, was heartily glad they were ſo happily met together again. <hi>Chriſipus</hi> craved pardon of <hi>Floridon</hi> and <hi>Luci<g ref="char:EOLhyphen"/>na,</hi> ſince what he did to aſſiſt his Vnkle he did ignorantly, not knowing any thing of <hi>Lucina's</hi> betraying, nor of his Vnkles Treachery. So that now being all reconciled, they left the relation of their adventures untill a fitter opportunity, and went to viſit the wounded Knight. But when Sir <hi>Malpas</hi> lift up his eyes and ſee <hi>Floridon</hi> ſtanding by him, he was con<g ref="char:EOLhyphen"/>founded with ſhame and remorſe of conſcience, for the wrong he had done <hi>Lucina;</hi> but <hi>Floridon</hi> ſeeing him in that conditi<g ref="char:EOLhyphen"/>on, was more willing to pardon his wicked actions, then to take revenge upon a dying man. Therefore he adviſed <hi>Chriſi<g ref="char:EOLhyphen"/>pus</hi> to convey him to the next Town to have his Wounds dreſt, that if it were poſſible he might live to repent and a<g ref="char:EOLhyphen"/>mend his wicked life.</p>
+               <p>
+                  <pb n="39" facs="tcp:56023:20"/>When they had ſet Sir <hi>Malpas</hi> on horſ-back, and a man be<g ref="char:EOLhyphen"/>hinde him to hold him on, and ordered two ſervants more to attend him to the next Town, then they went to ſee what condition the Captain of the Out-laws was in, whom they found to be ſtark dead; for when he ſaw ſome of his men ſlain, and the reſt fled, and finding himſelf in that extremity of pain and torture, knowing the Law would take his life, to prevent that, he ſtab'd himſelf with his own ſword; ſo that there needed no further adminiſtration of Iuſtice, upon ſo notorious a Malefactor: When they ſaw he was dead, <hi>Flo<g ref="char:EOLhyphen"/>ridon</hi> and <hi>Chryſipus</hi> took away his Horſe and Arms, and went to ſearch the Cave, where they found but very little of any thing which was conſiderable, ſo they lockt the doore of the Cave, and taking <hi>Lucina</hi> and <hi>Iſabella</hi> along, they rode to the next Iuſtice of Peace, and acquainted him with all that had hapned, who preſently appointed Officers to go bu<g ref="char:EOLhyphen"/>ry the dead bodies, and to take whatever was in the Cave, to be ſold for the uſe of the poor of the Pariſh, and to break up, and utterly demoliſh the Cave, that it might not be a ſhelter to ſuch villains for the future. Then <hi>Floridon</hi> and <hi>Chryſipus,</hi> with <hi>Lucina</hi> and <hi>Iſabella,</hi> rid to the Town, where the ſervants had carried Sir <hi>Malpas,</hi> to have his wounds dreſt; when they came to him, the Chyrurgion was juſt ſearching his wound, and told them he found it to be incu<g ref="char:EOLhyphen"/>rable, nevertheleſs he might live two or three days longer: which Sir <hi>Malpas</hi> underſtood and deſired he might die at his own Caſtle, and be buried with his Predeceſſors.</p>
+            </div>
+            <div n="11" type="chapter">
+               <pb n="40" facs="tcp:56023:21"/>
+               <head>CHAP. XI.</head>
+               <head type="sub">How they carried Sir <hi>Malpas</hi> to his Caſtle, where he dyed very penitent, and was nobly buried, and how <hi>Floridon</hi> and <hi>Lucina</hi> was welcomed home with great joy, and how they went to take leave of <hi>Loves Paradice.</hi>
+               </head>
+               <p>ACcording to Sir <hi>Malpa's</hi> deſire, <hi>Chriſipus</hi> took care to pro<g ref="char:EOLhyphen"/>vide a Horſe-litter and all things neceſſary for his remo<g ref="char:EOLhyphen"/>vall, and commanding the ſervants to march eaſily along, they all accompanied the wounded Knight; when upon their journey they had ſufficient time to declare to each other all their forepaſt ſufferings and deliverances. Then <hi>Lucina</hi> made known all Sir <hi>Malpa's</hi> Treachery, which ſo amazed <hi>Chryſipus</hi> that he heartily repented that he had ever aſſiſted his Vnke in ſo ignoble and baſe an enterprize. <hi>Floridon</hi> was very willing for <hi>Iſabella's</hi> ſake, to paſſe by all his ignorant fail<g ref="char:EOLhyphen"/>ings, &amp; ſo from that time there was an intire league of friend<g ref="char:EOLhyphen"/>ſhip betwixt them. By that time they had underſtood <hi>Luci<g ref="char:EOLhyphen"/>na's</hi> ſufferings, <hi>Floridon</hi> began and told them of his being ta<g ref="char:EOLhyphen"/>ken by the <hi>Outlaws</hi> and carried to the Cave. And <hi>Chriſipus</hi> and <hi>Iſabella,</hi> related the means of their deliverance from ſhip<g ref="char:EOLhyphen"/>wrack: With ſuch like diſcourſe they paſt away the time untill they were come to Sir <hi>Malpa's</hi> Caſtle, where <hi>Floridon</hi> and <hi>Lucina</hi> would have taken their leaves, but <hi>Chriſipus</hi> ear<g ref="char:EOLhyphen"/>neſtly intreated them ſince his Vnkle had ſo ſhort a time to live, that they would ſtay to be witneſſe how he diſpoſed of his Eſtate at his Death. As it was a reaſonable requeſt, ſo they could not civily deny it. Then they took wounded Sir <hi>Mal<g ref="char:EOLhyphen"/>pas</hi> and carried him to bed, where he lay for a while ſo ſtupi<g ref="char:EOLhyphen"/>fied with pain, that he knew not where he was.</p>
+               <p>
+                  <pb n="41" facs="tcp:56023:21"/>At length when he came to himſelf, he told <hi>Chriſipus</hi> he was very glad he had found his <hi>Iſabella</hi> again, who he feared had been loſt<g ref="char:punc">▪</g> and ſince he had but a ſmall time to continue, he was willing to ſettle his <gap reason="illegible" resp="#UOM" extent="1 word">
+                     <desc>〈◊〉</desc>
+                  </gap> 
+                  <hi>Chriſipus</hi> and his Heirs for ever. And thereupon he made his Will, and gave Lega<g ref="char:EOLhyphen"/>cies to all his ſervants, and a good ſum of money to the poore, being very charitable at his Death, although he never was ſo before. When he had ſet all things in order, he then begun to reflect upon his wicked dealings with <hi>Floridon</hi> and <hi>Lucina,</hi> and earneſtly begg'd their pardon and forgiveneſſe, ſince by his own folly, he had procured his death, they could deſire no greater ſatisfaction.</p>
+               <p>He acknowledged it to be no more, but what he had deſerv'd: Firſt, for deceiving <hi>Mariana,</hi> and afterwards for endeavour<g ref="char:EOLhyphen"/>ing to wrong <hi>Floridon</hi> and <hi>Lucina,</hi> who ſeeing him ſo peni<g ref="char:EOLhyphen"/>tent, they were moves with compaſſion, and freely forgave him for all the wrong that ever he had done them.</p>
+               <p>Whilſt Sir <hi>Malpas</hi> lay in this ſad condition, juſt at the point of Death, it chanced that <hi>Mariana</hi> heard newes of it, and came to viſit him; but when ſhe ſaw him almoſt dead, and under<g ref="char:EOLhyphen"/>ſtood by what means he had procured his own Death ſhe was almoſt deſtracted. When Sir <hi>Malpas</hi> ſaw her ſo near him, whom he had ſo much wronged; He with a feeble voice, deſir<g ref="char:EOLhyphen"/>ed her, <hi>Not to diſturbe him at his Death, but freely to forgive all his miſdeeds, that he might go out of the World in Peace of Conſcience.</hi>
+               </p>
+               <p>She had ſcarce done ſpeaking to him again, before he dyed, and left them all exceedingly ſatisfied by his penitent Death.</p>
+               <figure/>
+               <p>Then <hi>Chriſipus</hi> prepared all things neceſſary for his Buri<g ref="char:EOLhyphen"/>al, and would by no means ſuffer <hi>Floridon</hi> and <hi>Lucina</hi> to de<g ref="char:EOLhyphen"/>p<gap reason="illegible" resp="#UOM" extent="1 letter">
+                     <desc>•</desc>
+                  </gap>rt untill the Burial were paſt, which laſted a week, for he was very nobly Buried according to his Quality.</p>
+               <p>As ſoon as <hi>Mariana</hi> had ſéen her Beloved <hi>Malpas</hi> buried, ſhe took leave of the Company with great ſorrow, and retired to <hi>Loves Paradice</hi> to ſpend the reſt of her dayes.</p>
+               <p>Now was <hi>Chriſipus</hi> and <hi>Iſabella</hi> poſſeſed of their Unkles E<g ref="char:EOLhyphen"/>ſtate, to <hi>Floridon</hi> and <hi>Lucina's</hi> great ioy; who having ſéen all things decently performed, courteouſly took their leaves of <hi>Chriſipus</hi> and <hi>Iſabella,</hi> who would needs go part of their way with them, but that <hi>Floridon</hi> would by no means ſuffer them, in regard their Unkle was ſo lately Buried. Very many expreſſions of kindneſs paſsed amongſt them, and as much
+<pb n="43" facs="tcp:56023:22"/>
+were they indeared one to another, as if they had been near Relations.</p>
+               <figure/>
+               <p>Now had <hi>Floridon</hi> and <hi>Lucina</hi> their hearts delight, and paſ<g ref="char:EOLhyphen"/>ſed chearfully <gap reason="illegible" resp="#UOM" extent="1 word">
+                     <desc>〈◊〉</desc>
+                  </gap> untill they <gap reason="illegible" resp="#UOM" extent="1 word">
+                     <desc>〈◊〉</desc>
+                  </gap> to their <gap reason="illegible" resp="#UOM" extent="1 word">
+                     <desc>〈◊〉</desc>
+                  </gap> habitations. But to tell with what <gap reason="illegible" resp="#UOM" extent="1 word">
+                     <desc>〈◊〉</desc>
+                  </gap> they were welcomed by their Friends, Relations, and Servants, it would tire any tongue to relate. There was Ringing of Bells, and making of Bone-fires, and all little enough to make known their happy arrival: There could not poſſibly be more ſorrow ſhown for their loſs, then there was expreſſions of Ioy for their ſafe re<g ref="char:EOLhyphen"/>turn: Their Friends ſtood in admiration to hear them relate in what a ſtrange manner they were ſurpriz'd and carried a<g ref="char:EOLhyphen"/>way, eſpecially when they heard of Sir <hi>Malpas's</hi> Treachery, and of the cauſe of his Death.</p>
+               <p>But after <hi>Floridon</hi> and <hi>Lucina</hi> had continued a while a<g ref="char:EOLhyphen"/>mongſt their Relations, to reſt themſelves after all their troubles They agreed to go once more to <hi>Loves Paradice,</hi> ſo take leave of that Amorous Society, which was ſo ſorry for their abſcence: when they were once entered into that de<g ref="char:EOLhyphen"/>lightfull place, the thoughts of all their former ſufferings were quite vaniſhed; now they enioy'd each others company, which they valued more then the whole World.</p>
+               <p>All the Troup came to bid them welcome, but were very
+<pb n="44" facs="tcp:56023:23"/>
+ſorrowful when they underſtood they came to take their laſt farewell.</p>
+               <figure/>
+               <p>Nevertheleſs they entertain'd them with all the choice de<g ref="char:EOLhyphen"/>lights that might be imagined, ſo long as they were pleaſed to continue amongſt them: but at length, <hi>Floridon</hi> and <hi>Luci<g ref="char:EOLhyphen"/>na</hi> being deſirous to return, after aboundance of Ceremonies paſt, and a great deal of ſorrow expreſt on both ſides, for their departure from that place of Pleaſure; they ſolemnly took leave of that ſweet company, and return'd home once more to prepare for their Nuptial Day.</p>
+            </div>
+            <div n="12" type="chapter">
+               <pb n="45" facs="tcp:56023:23"/>
+               <head>CHAP. XII.</head>
+               <head type="sub">How <hi>Floridon</hi> and <hi>Lucina</hi> were Maried with great So<g ref="char:EOLhyphen"/>lemnity, to the exceeding Joy and Satisfaction of all their Friends and Relations.</head>
+               <p>THe day being appointed for the Celebration of that joyfull Marriage betwixt <hi>Floridon</hi> and <hi>Lucina,</hi> they ſent to in<g ref="char:EOLhyphen"/>vite all their Friends and Relations both far and near; a<g ref="char:EOLhyphen"/>mongſt the reſt, they did not forget <hi>Chriſipus</hi> and <hi>Iſabella,</hi> for they reckoned them among the choice of their gueſs. Nor did they want the ſociety belonging to <hi>Loves Paradice;</hi> but all came to be witneſs to the joyfull Vniting of ſo choice a cou<g ref="char:EOLhyphen"/>ple. Great proviſion was made for their entertainment, and all things provided that hearts could wiſh or deſire.</p>
+               <p>The ſeaſon of the year ſerv'd to furniſh them with the choi<g ref="char:EOLhyphen"/>ceſt Delicates, and pleaſant Fruits; and the flouriſhing Gar<g ref="char:EOLhyphen"/>dens to adorn them with variety of ſweet ſmelling Flowers to delight the Senſes.</p>
+               <p>Their Friends being come at the appointed time, <hi>Floridon</hi> and <hi>Lucina</hi> appear'd in the greateſt Splendor that ever couple was ſeen in before. O how <hi>Lucina</hi> ſhined with Burniſht Gold and Orient Pearl, enough to Raviſh the beholders with admiration, ſhe lookt ſo like a Creature Divine. Then were they conducted to a Chappel near adjoyning in a Noble Equipage; where after the Solemnity of their Marriage Rites were decently performed, they returned back again in the ſame order. At their return, ſervants were attending to conduct them into Princely Romes, where they were en<g ref="char:EOLhyphen"/>tertained with a moſt ſumptuous Dinner, ſuitable to the qua<g ref="char:EOLhyphen"/>lity of ſuch Noble Gueſts. There was variety of all things that might give ſatisfaction, and plenty of rich Wines to pleaſe their Pallats. Beſides it did very much delight the invited Gueſs, to ſee every thing brought up in ſuch comely order.</p>
+               <figure/>
+               <p>Dinner being paſt, they entertaind one another with pleaſant Diſcourſe for ſome few hours; after which they were preſen<g ref="char:EOLhyphen"/>ted with a Rich and Coſtly Banquet, furniſht with variety of all ſorts of Delicates, whilſt the rareſt Muſique delighted them with ear-pleaſing Harmony. After which, the young Gallants being deſirous to ſatisfie themſelves with ſome pleaſing paſtime for their Recreation: they ſo ordred it, that all the Beautious Virgins which were preſent at this Mar<g ref="char:EOLhyphen"/>riage, ſhould be ſeated in orderly Aray in a ſpatious Room, out of which there ſhould be choſen one to be Princeſs of <hi>Loves Paradice</hi> for the year following, and it ſhould be left to her to make choice of whom ſhe pleaſed, to be Prince for the ſame time. But they were at great debate how this Prin<g ref="char:EOLhyphen"/>ceſs ſhould be choſen, without giving offence to the reſt. When one of the company told them, there was a <hi>Blacka<g ref="char:EOLhyphen"/>more</hi> Boy belonging to the Muſique, who (if they were ſo pleaſed) might make choyce without any partiality. They
+<pb n="47" facs="tcp:56023:24"/>
+all approved of the conceit, and ſo the Ladyes being ſeated the Boy was brought into the Room and ordred by his Ma<g ref="char:EOLhyphen"/>ſter (whoſe Language he beſt underſtood) to take out that Lady by the hand, which he liked beſt of all that company. The Boy being amazed to ſée ſo many rare Beauties fix their eyes upon him, ſtood a while, as if he had been ſenſeleſs, but being urged by his Maſter to proceed, he went from one to an<g ref="char:EOLhyphen"/>other, and looked wiſhly in the face of every one of them, un<g ref="char:EOLhyphen"/>till he had taken a view of them all; and at laſt perceiving one amongſt them, whoſe hair and eye-brow's were as black as a Raven; he preſently took her by the hand and led her to his Maſter, which moved exceeding laughter in the company, to ſée him refuſe the greateſt Beauties, and take one which he thought to be neareſt to his own Complexion.</p>
+               <figure/>
+               <p>The Princeſs being thus choſen, ſhe preſently made choice of the party ſhe moſt affected to be Prince. Then were they both crowned with delicate Garlands, richly beautified with fragrant Flowers.</p>
+               <p>After which, the whole company yielded obedience to them, and honoured them as their ſupream. Then the Prince gave order, that thoſe which belonged to his ſociety, ſhould all make ready to depart; they quickly obey's his command, and after leave taken of <hi>Floridon</hi> and <hi>Lucina,</hi> and of the reſt of the company; they walkt in decent order to <hi>Loves Paradice,</hi> where we wil leave them to the enjoyment of their innocent paſtime.</p>
+               <p>
+                  <pb n="48" facs="tcp:56023:25"/>Now was <hi>Floridon</hi> and <hi>Lucina</hi> left with their deareſt Friends and neareſt Relations, whom they would by no means ſuffer to depart, untill their Mirth and Feaſting were all paſt, which continued for many dayes. During which time, they had much diſcourſe with <hi>Chriſipus</hi> and <hi>Iſabella</hi> about ſundry things, eſpecially about their former Sufferings and Troubles, which afforded them the greater content, now they were come to the real enjoyment of each other.</p>
+               <p>After ſeveral days paſt in Feaſting, Dancing, and many other Paſtimes, the company began to drop away, and take leave one by one, according as their buſineſs did require; ſo at laſt there was but very few left beſides <hi>Chriſipus</hi> and <hi>Iſabella,</hi> whoſe occaſions call'd for them at home, as well as the reſt; but when <hi>Floridon</hi> perceived they were deſirous to depart, he endeavoured to perſwade them to a longer ſtay, for he was ve<g ref="char:EOLhyphen"/>ry unwilling to part with them, but they could by no means conſent, ſince they had already ſtay'd the utmoſt of their time. Then was there <gap reason="illegible" resp="#UOM" extent="1 word">
+                     <desc>〈◊〉</desc>
+                  </gap> promiſes paſt on both ſides of fre<g ref="char:EOLhyphen"/>quent viſits from each other: And ſo after a thouſand good wiſhes to every one of their Friends and Relations, they all courteouſly took leave of the thrice happy <hi>Floridon</hi> and <hi>Lucina;</hi> whom after all their Troubles, Sorrows, and ſufferings; we leave comfortably united, to their own deſires and Hearts Content.</p>
+            </div>
+            <trailer>FINIS.</trailer>
+         </div>
+      </body>
+      <back>
+         <div type="authors_note">
+            <p>
+               <hi>Reader,</hi> If my endeavours to pleaſe thee herein, may purchaſe thy kinde acceptance; I ſhall (God wil<g ref="char:EOLhyphen"/>ling) ere long, preſent thee with a ſecond part, which I hope may give thee further content.</p>
+            <trailer>Vale.</trailer>
+            <pb facs="tcp:56023:25"/>
+         </div>
+      </back>
+   </text>
+</TEI>
